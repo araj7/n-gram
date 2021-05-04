@@ -4,3 +4,4 @@ The program designs and implements a Python program called ngram.py that learns 
 
 #### *ngram.py n m input-file/s*
 
+n and m are integer values, and input-files is a list of file names that contain the text you are building your ngram model from.
