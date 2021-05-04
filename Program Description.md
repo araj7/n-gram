@@ -4,4 +4,8 @@ The program designs and implements a Python program called ngram.py that learns 
 
 #### *ngram.py n m input-file/s*
 
-n and m are integer values, and input-files is a list of file names that contain the text you are building your ngram model from.
+n and m are integer values, and input-files is a list of file names that contain the text you are building your ngram model from. For instance:
+
+*ngram.pl 3 10 pg2554.txt pg2600.txt pg1399.txt*
+
+This command results in 10 randomly generated sentences based on a tri-gram model learned from the text files text file in the text data directory.
