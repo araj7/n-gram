@@ -1,4 +1,6 @@
-# Amit Raj, Rakesh Subramani Kaleeshwaran, Abinash Vasudevan**
+'''n-grams'''
+
+# Amit Raj
 
 # **Description**
 
